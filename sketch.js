@@ -182,7 +182,7 @@ fill(70, 128, 86)
 
     //blue uner right side of bright
 
-    beginShape()
+    vbeginShape()
     fill(85, 108, 166)
     vertex(302,322)
     vertex(272,343)
